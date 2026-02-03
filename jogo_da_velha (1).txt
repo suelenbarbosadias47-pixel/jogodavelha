@@ -3,3 +3,7 @@
  x | x | 0
 -----------
  x | 0 | 0
+
+
+ jogo encerrado 
+ placar: 1 x 1
